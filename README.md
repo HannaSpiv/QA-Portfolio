@@ -22,8 +22,7 @@ Here I collect examples of my work as a **Manual QA Engineer**.
 ---
 
 ## 📑 Featured Work
-- ✅ [Login Form Checklist](./Documentation/Login_Form_Checklist.pdf)  
-- (coming soon) Test cases and bug reports  
+- (coming soon)
 
 ---
 

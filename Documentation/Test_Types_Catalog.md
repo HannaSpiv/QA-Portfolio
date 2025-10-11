@@ -20,7 +20,6 @@
 | Type | Example Scenario | Goal |
 |------|------------------|------|
 | Usability | Verify that checkout steps are intuitive | Improve user experience |
-| Performance | Measure page loading speed under 10s | Ensure fast response |
 | Security | Check access to admin area without login | Prevent unauthorized access |
 | Compatibility | Test UI in Chrome, Firefox, Safari | Maintain cross-browser stability |
 | Localization | Verify correct currency and date formats | Match regional standards |
